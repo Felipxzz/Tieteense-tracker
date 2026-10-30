@@ -1,0 +1,7 @@
+{
+  "projeto": "Ponto Certo",
+  "versao": "0.2.0",
+  "fonteDados": "Horários e itinerários oficiais da EMTU (consulta de 29/10/2026)",
+  "aviso": "Os horários podem mudar sem aviso prévio. Confirme no site da EMTU antes de viajar. Este aplicativo não mostra a localização dos ônibus em tempo real.",
+  "ultimaAtualizacao": "2026-10-29T02:54:51-03:00"
+}
